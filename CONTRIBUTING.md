@@ -23,8 +23,8 @@ Use the following template for your description file (`.md`):
 ## < name >
 < short description >
 
-**Config file:** [click!](InGameInfo-<author>-<shortname>.xml)
-**Author:** < author >
+  * **Config file:** [click!](InGameInfo-<author>-<shortname>.xml)
+  * **Author:** < author >
 
 ### Screenshots
 ![](InGameInfo-<author>-<shortname>-001.png)
