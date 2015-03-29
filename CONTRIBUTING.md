@@ -28,6 +28,8 @@ Use the following template for your description file (`.md`):
 ### Screenshots
 ![](InGameInfo-<author>-<shortname>-001.png)
 ![](InGameInfo-<author>-<shortname>-002.png)
+![](InGameInfo-<author>-<shortname>-003.png)
+...
 ```
 
 Optionally, you may specify contributors bellow the author using the following template:
