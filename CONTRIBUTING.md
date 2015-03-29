@@ -20,5 +20,21 @@ Where you should replace the `author` tag with your own name/nickname and `short
 # Description file
 Use the following template for your description file (`.md`):
 ```
-TODO: create template
+## < name >
+< short description >
+
+**Author:** < author >
+
+### Screenshots
+![](InGameInfo-<author>-<shortname>-001.png)
+![](InGameInfo-<author>-<shortname>-002.png)
+```
+
+Optionally, you may specify contributors bellow the author using the following template:
+```
+**Contributors:**
+  * < contributor 1 >
+  * < contributor 2 > - < optional short description of the contribution >
+  * < contributor 3 > - < optional short description of the contribution >
+  * ...
 ```
