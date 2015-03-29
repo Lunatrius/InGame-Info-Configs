@@ -1,0 +1,8 @@
+## Default
+This is the default config file that is shipped with the latest InGame Info XML version.
+
+**Author:** Lunatrius
+
+### Screenshots
+![](InGameInfo-Lunatrius-default-001.png)
+![](InGameInfo-Lunatrius-default-002.png)
