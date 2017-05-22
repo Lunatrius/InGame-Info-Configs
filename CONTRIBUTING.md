@@ -7,12 +7,13 @@ In order to prevent any kind of confusion **only XML** configs are accepted. You
 All submitted files should have the following filename structure:
 
 ```
-InGameInfo-<author>-<shortname>.xml
-InGameInfo-<author>-<shortname>.md
-InGameInfo-<author>-<shortname>-001.png
-InGameInfo-<author>-<shortname>-002.png
-InGameInfo-<author>-<shortname>-003.png
-...
+  \ <author>-<shortname>/ (folder)
+  +-- README.md
+  +-- InGameInfo-<author>-<shortname>.xml
+  +-- InGameInfo-<author>-<shortname>-001.png
+  +-- InGameInfo-<author>-<shortname>-002.png
+  +-- InGameInfo-<author>-<shortname>-003.png
+  +-- ...
 ```
 
 Where you should replace the `author` tag with your own name/nickname and `shortname` with something short that roughly describes your config file (`default_tweaked`, `compact`, `thaumcraft`, etc).
