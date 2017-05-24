@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="topcenter">
+        <line>
+            <str>$b $n     $c$n $b$n     </str>
+        </line>
+        <line>
+            <str>$b $n/</str>
+            <op>
+                <str>ge</str>
+                <var>direction</var>
+                <num>168.75</num>
+                <num>146.25</num>
+                <num>123.75</num>
+                <num>101.25</num>
+                <num>78.75</num>
+                <num>56.25</num>
+                <num>33.75</num>
+                <num>11.25</num>
+                <num>0</num>
+                <num>-11.25</num>
+                <num>-33.75</num>
+                <num>-56.25</num>
+                <num>-78.75</num>
+                <num>-101.25</num>
+                <num>-123.75</num>
+                <num>-146.25</num>
+                <num>-168.75</num>
+                <num>-180</num>
+                <str>NW  $c$nN$b$n  NE</str>
+                <str>  NW   N  </str>
+                <str>W   $c$nNW$b$n   N</str>
+                <str>  W   NW  </str>
+                <str>SW  $c$nW$b$n  NW</str>
+                <str>  SW   W  </str>
+                <str>S   $c$nSW$b$n   W</str>
+                <str>  S   SW  </str>
+                <str>SE  $c$nS$b$n  SW</str>
+                <str>SE  $c$nS$b$n  SW</str>
+                <str>  SE   S  </str>
+                <str>E   $c$nSE$b$n   S</str>
+                <str>  E   SE  </str>
+                <str>NE  $c$nE$b$n  SE</str>
+                <str>  NE   E  </str>
+                <str>N   $c$nNE$b$n   E</str>
+                <str>  N   NE  </str>
+                <str>NW  $c$nN$b$n  NE</str>
+                <str/>
+            </op>
+            <str>\</str>
+        </line>
+    </lines>
+</config>
