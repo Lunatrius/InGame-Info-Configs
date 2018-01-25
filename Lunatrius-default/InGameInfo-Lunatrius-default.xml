@@ -95,7 +95,7 @@
                 <var>mainhanddamageleft</var>
                 <num>0.5</num>
                 <str>{mainhanddamageleft}$f / $e{mainhandmaxdamage}</str>
-                <var>equippedname</var>
+                <var>mainhandname</var>
             </max>
         </line>
         <line>
